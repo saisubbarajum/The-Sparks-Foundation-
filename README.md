@@ -1,2 +1,2 @@
 # The-Sparks-Foundation-
-Web Internship project
+Web Dev. Internship project
